@@ -1,0 +1,13 @@
+For compatibility between our Gentlemens Manor mlo (package name imperial-manor) and Smokeys Cottages mlo (Package name smokey_manorchatky) follow these instructions.
+
+- Place all 5 included files into the imperial-manor > stream folder (overwriting all of the files)
+- Go to smokeys mlo stream folder and delete the 5 files with the same name.
+	ss1_14_ground2.ydr
+	ss1_14_0.ybn
+	hi@ss1_14_0.ybn
+	apa_ss1_occl_03.ymap
+	apa_ss1_14_strm_1.ymap
+
+The 5 files included should only exist in the gentlemens manor stream folder, no where else.
+
+enjoy
