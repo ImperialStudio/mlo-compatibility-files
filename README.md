@@ -16,10 +16,17 @@ A. Conflicting Occlusion file with another MLO/Map edit which will need to be me
 Q. I can't walk into the MLO, ie. Is blocked by an invisible wall?<br>
 A. There is a collision conflict and a merged .YBN collision file is required.<br>
 <br>
-<h4>There is a great website provided by Prompt to easily check for conflicts in your servers MLO files.</h4>
-<url>https://fivem.prompt-mods.com/compatibility-tool</url><br>
+<h4>Here is a tool you can use to easily check for conflicts in your servers MLO files.</h4>
+<url>https://github.com/P-lauski/StreamFileAssistantExtended</url>
 <br>
-<i>(Simply drag and drop your folders to indentify the conflicting files. Does NOT merge then for you)</i><br>
+<h4>Or you can use this website to also check for conflicts, (Thanks to Madcore)</h4>
+<url>https://sabanto.de/checktool.html</url><br>
+<br>
+<i>(Neither method will merge any files for you)</i>
+<br>
+<br>If you want an automated merging solution, check out Vertex Hub<br>
+<br>
+<url>https://vertex-hub.com/</url>
 <br>
 <br>
 <h2>Instructions for searching and downloading current available compatibility files.</h2>
